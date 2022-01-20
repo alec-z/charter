@@ -121,7 +121,7 @@ Software Transparency Foundation website.
 
 The Governing Board voting members shall consist of one representative appointed from each
 
-Platinum or Gold Member and the Steering Committee Chair.
+Diamond or Gold sponsor and the Steering Committee Chair.
 
 The Governing Board responsibilities consist of:
 
@@ -169,21 +169,21 @@ Governing Board.
 
 **Steering Committee**
 
-It is anticipated that the Steering Committee will meet monthly and will include work teams, as
+It is anticipated that the Steering Committee will meet monthly and will include project teams, as
 
 may be created by the Steering Committee, reporting up to the Steering Committee.
 
-Participation on the Steering Committee and its work teams is open to all interested parties.
+Participation on the Steering Committee and its project teams is open to all interested parties.
 
 The Director, if any, shall be entitled to observe all meetings of the Steering Committee and any
 
-work team meetings on a non-voting basis.
+project team meetings on a non-voting basis.
 
 The voting members of the Steering Committee shall consist of:
 
-● One appointed representative from each Platinum Member
+● One appointed representative from each Diamond or Gold sponsor
 
-● Each work team lead, as such may be determined pursuant to procedures decided upon by
+● Each project team lead, as such may be determined pursuant to procedures decided upon by
 
 the Steering Committee with approval of the Governing Board
 
@@ -203,7 +203,7 @@ Ledger
 
 The voting members of the Outreach Committee shall consist of one appointed representative
 
-from each Platinum Member.
+from each Diamond or Gold sponsor.
 
 The Outreach Committee shall be responsible for designing, developing and executing efforts
 
@@ -254,9 +254,9 @@ Any matter that is not resolved in either the Steering Committee or Outreach Com
 
 be submitted by the respective Chair of that Committee to the Governing Board for resolution.
 
-Any matter that is not resolved in a work team may be submitted by a work team member to
+Any matter that is not resolved in a project team may be submitted by a project team member to
 
-the respective Committee under which that work team was formed.
+the respective Committee under which that project team was formed.
 
 The Governing Board may designate ofﬁcer positions within the Project and set procedures for
 
