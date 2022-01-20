@@ -40,14 +40,6 @@ Composition Analysis (SCA) and other tools, which otherwise are out of reach for
 
 mid-sized organizations.
 
-Fundación para la Transparencia del Software
-
-Calle Prim 15, 4 derecha
-
-28004 Madrid
-
-
-
 
 Enabling a decentralized validating entity
 
@@ -90,15 +82,6 @@ labor, and other resources as ‘payment in kind’ towards an annual sponsorshi
 All sponsors are entitled to participate in project meetings, and to identify their
 
 company/community as sponsors of the Software Transparency Foundation.
-
-Fundación para la Transparencia del Software
-
-Calle Prim 15, 4 derecha
-
-28004 Madrid
-
-
-
 
 
 
@@ -155,14 +138,6 @@ Board topics (but such guests may not participate in any vote on any matter befo
 
 Governing Board). The Governing Board should encourage transparency, including the public
 
-Fundación para la Transparencia del Software
-
-Calle Prim 15, 4 derecha
-
-28004 Madrid
-
-
-
 publication of public minutes within a reasonable time following their approval by the
 
 Governing Board.
@@ -213,11 +188,7 @@ behalf of the Governing Board and in collaboration with the Governing Board, and
 
 a chair to preside over meetings of the Outreach Committee.
 
-Fundación para la Transparencia del Software
 
-Calle Prim 15, 4 derecha
-
-28004 Madrid
 
 
 
@@ -268,11 +239,7 @@ Committee and the election of any ofﬁcer or other position within the Project.
 
 The Governing Board shall deﬁne and adopt a code of conduct.
 
-Fundación para la Transparencia del Software
 
-Calle Prim 15, 4 derecha
-
-28004 Madrid
 
 
 
@@ -310,12 +277,6 @@ Commons Zero License version 1.0 Universal (CC0 1.0)
 
 **Amendments**
 
-This charter may be amended by a super majority vote of all Governing Board members.
 
-Fundación para la Transparencia del Software
-
-Calle Prim 15, 4 derecha
-
-28004 Madrid
 
 
