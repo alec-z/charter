@@ -103,7 +103,7 @@ Software Transparency Foundation website.
 **Open Governing Board**
 
 ### Members constituted:
-●  one representative appointed from each Diamond or Gold sponsor(对于一致行动人的限制，可以有多个会员，但是一致行动人或关联人最多只能选2位Member)
+●  one representative appointed from each Diamond or Gold sponsor, for companies with strong ties in ownership or business, they can sponsor multiple times, but they can only appoint 2 representative in total. Whether they constitute astrong ties is determined by governing board voting.
 
 ●  the Steering Committee Chair.
 
@@ -150,7 +150,7 @@ Governing Board.
 **Steering Committee**
 
 ### Members constituted:
-● One appointed representative from each Diamond or Gold sponsor (对于一致行动人的限制，可以有多个会员，但是一致行动人或关联人最多只能选2位Member)
+● One appointed representative from each Diamond or Gold sponsor, for companies with strong ties in ownership or business, they can sponsor multiple times, but they can only appoint 2 representative in total. Whether they constitute astrong ties is determined by governing board voting.
 
 ● Each project team lead, as such may be determined pursuant to procedures decided upon by
 
@@ -166,11 +166,12 @@ The Steering Committee shall be responsible for:
 
 ● Creating, maintaining and amending projects lifecycle procedures and processes, and base those to manages projects lifecycle.
 
-● 在尊重项目运作自主权的基础上
-
 ● Coordinating collaboration among Projects, including development of an overall technical vision for the community
 
 ● Managing conflicts, violations of procedures or guidelines and any cross-project or high-level issues that cannot be resolved in the project team level
+
+● For the internal affairs of the project, the Steering Committee does not participate in the decision-making, respects the right of the project to operate independently。 Based on the principles of project-autonomy and democracy
+The Steering Committee can approve the project-charter, and and supervise the execution of the project-charter
 
 ● Appointment of a Chair to preside over meetings and to serve on the Governing Board
 
@@ -200,7 +201,10 @@ to build a Software Transparency Foundation ecosystem throughout relevant supply
 behalf of the Governing Board and in collaboration with the Governing Board, and shall appoint
 
 a chair to preside over meetings of the Outreach Committee.
-(外联委员会应该直接向Governing Board汇报)
+
+The Outreach Committee should report directly to the Governing Board
+
+
 The Director, if any, shall be entitled to observe all meetings of the Outreach Committee on a non-voting basis.(who is the director?)
 
 
@@ -214,7 +218,7 @@ Committee, or Outreach Committee, as applicable, shall vote on a one vote per vo
 
 representative basis.
 
-Decisions by vote shall be based on a majority vote, provided that at least sixty percent (60%)
+Decisions by vote shall be based on a majority vote, provided that at least more than sixty percent (60%)
 
 of the Governing Board, Steering Committee, Outreach Committee or other committee
 
@@ -222,11 +226,12 @@ representatives, as applicable, must be either present or participating electron
 
 written action in order to conduct a valid vote.
 
-In the event of a tied vote with respect to an action by the Governing Board, Steering
 
-Committee, Outreach Committee or other committee created by the Governing Board, the chair
+In the event of a tied (greater or equalthan 50% but less than 60%) vote with respect to an action by the Governing Board, the chair 
+of the Governing board or committee shall be entitled to submit a tie-breaking vote.
 
-of such board or committee shall be entitled to submit a tie-breaking vote.
+In the event of a tied (greater or equalthan 50% but less than 60%) vote with respect to an action by the Steering Committee, Outreach 
+Committee or other committee created by the Governing Board should be submitted by the respective Chair of that Committee to the Governing Board for resolution.
 
 Any matter that is not resolved in either the Steering Committee or Outreach Committee may
 
