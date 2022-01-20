@@ -102,25 +102,30 @@ Software Transparency Foundation website.
 
 **Open Governing Board**
 
-The Governing Board voting members shall consist of one representative appointed from each
+### Members constituted:
+●  one representative appointed from each Diamond or Gold sponsor(对于一致行动人的限制，可以有多个会员，但是一致行动人或关联人最多只能选2位Member)
 
-Diamond or Gold sponsor and the Steering Committee Chair.
+●  the Steering Committee Chair.
 
-The Governing Board responsibilities consist of:
+### Rights and Responsibilities: 
+matters approved by Open Governing Board through voting should consist of:
 
-● Approving the budget to direct the use of funds raised from all sources of revenue
+● the budget to the use of funds raised from all sources of revenue
 
-● Electing a Chair of the Project to preside over meetings, authorize expenditures approved by
+● Electing a Chair of the Foundation to preside over meetings, authorize expenditures approved by
 
 the budget and oversee operations
 
-● Voting on decisions or matters before the Governing Board
+● Overseeing marketing matters
 
-● Overseeing all Project business and marketing matters
-
-● Adopt and maintain policies or rules and procedures for the Project as appropriate, such as a
+● Adopt and maintain policies or rules and procedures for the Foundation as appropriate, such as a
 
 Code of Conduct, a trademark policy and any compliance or certiﬁcation policies.
+
+### Obligations and Responsibilities: 
+● Research on the Board topics and exercise voting rights
+
+### Rules
 
 Governing Board meetings shall be limited to the Governing Board representatives, the
 
@@ -144,35 +149,43 @@ Governing Board.
 
 **Steering Committee**
 
-It is anticipated that the Steering Committee will meet monthly and will include project teams, as
-
-may be created by the Steering Committee, reporting up to the Steering Committee.
-
-Participation on the Steering Committee and its project teams is open to all interested parties.
-
-The Director, if any, shall be entitled to observe all meetings of the Steering Committee and any
-
-project team meetings on a non-voting basis.
-
-The voting members of the Steering Committee shall consist of:
-
-● One appointed representative from each Diamond or Gold sponsor
+### Members constituted:
+● One appointed representative from each Diamond or Gold sponsor (对于一致行动人的限制，可以有多个会员，但是一致行动人或关联人最多只能选2位Member)
 
 ● Each project team lead, as such may be determined pursuant to procedures decided upon by
 
-the Steering Committee with approval of the Governing Board
+the Steering Committee with approval of the Governing Board (应该由项目自己选举，选举规则，使用SC认可的选举规则，或者在SC通过，选举的结果应该在SC备案)
 
-● One elected representative from the Community Members
+● One elected representative from the Community Members (how to select?，who can vote?)
+
+### Rights and Responsibilities: 
+
+matters approved by Steering Committee through voting should consist of:
 
 The Steering Committee shall be responsible for:
 
-● Development, management and updating of the Software Transparency Foundation SBOM
+● Creating, maintaining and amending projects lifecycle procedures and processes, and base those to manages projects lifecycle.
 
-Ledger
+● 在尊重项目运作自主权的基础上
+
+● Coordinating collaboration among Projects, including development of an overall technical vision for the community
+
+● Managing conflicts, violations of procedures or guidelines and any cross-project or high-level issues that cannot be resolved in the project team level
 
 ● Appointment of a Chair to preside over meetings and to serve on the Governing Board
 
 ● Such other activities as the Governing Board may assign to the Steering Committee
+
+
+### Obliation and Responsibilities: 
+● Participate in Steering Committee meeting monthly
+● Research on the Steering Committee topics and exercise voting rights
+
+### Rules
+
+Steering Committee meetings can include any project teams, and Steering Committee meeting is open to all interested parties.
+The Director, if any, shall be entitled to observe all meetings of the Steering Committee and any work team meetings on a non-voting basis.
+
 
 **Outreach Committee**
 
@@ -187,15 +200,9 @@ to build a Software Transparency Foundation ecosystem throughout relevant supply
 behalf of the Governing Board and in collaboration with the Governing Board, and shall appoint
 
 a chair to preside over meetings of the Outreach Committee.
+(外联委员会应该直接向Governing Board汇报)
+The Director, if any, shall be entitled to observe all meetings of the Outreach Committee on a non-voting basis.(who is the director?)
 
-
-
-
-
-
-The Director, if any, shall be entitled to observe all meetings of the Outreach Committee on a
-
-non-voting basis.
 
 **Voting**
 
@@ -238,12 +245,6 @@ Committee and the election of any ofﬁcer or other position within the Project.
 **Code of Conduct**
 
 The Governing Board shall deﬁne and adopt a code of conduct.
-
-
-
-
-
-
 
 
 
