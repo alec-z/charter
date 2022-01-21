@@ -1,8 +1,6 @@
-﻿
 
-**Software**
 
-**Transparency Foundation Charter**
+# Software Transparency Foundation Charter
 
 Fundación para la Transparencia del Software
 
@@ -12,7 +10,7 @@ Madrid, October 1st, 2021
 
 related Software Bills of Materials (SBOM) throughout the software supply chain”
 
-**Mission**
+## Mission
 
 Our mission is to “bring transparency to the software supply-chain” with a goal of harmonizing
 
@@ -24,7 +22,7 @@ Our focus will be on operationalizing existing and emerging standards like SPDX 
 
 relating and validating Software Bills of Materials (SBOM).
 
-Driving adoption of SBOM
+**Driving adoption of SBOM**
 
 By providing Open Source tools for generating, notarizing, relating and validating Software Bills
 
@@ -40,8 +38,7 @@ Composition Analysis (SCA) and other tools, which otherwise are out of reach for
 
 mid-sized organizations.
 
-
-Enabling a decentralized validating entity
+**Enabling a decentralized validating entity** 
 
 The Software Transparency Foundation proposes to enable a decentralized SBOM Ledger to
 
@@ -53,7 +50,7 @@ A decentralized, immutable SBOM Ledger will contribute to completeness of visibi
 
 supply chain.
 
-Facilitating SBOM interoperability
+**Facilitating SBOM interoperability**
 
 The Software Transparency Foundation aims at solving the traceability issue of software
 
@@ -67,7 +64,7 @@ tracing and validating software components across the supply chain, regardless o
 
 in which the SBOM document is generated.
 
-**Membership & Sponsorship Programs**
+## Membership & Sponsorship Programs
 
 The Software Transparency Foundation offers ﬁve sponsorship programs: Diamond, Gold,
 
@@ -84,8 +81,6 @@ All sponsors are entitled to participate in project meetings, and to identify th
 company/community as sponsors of the Software Transparency Foundation.
 
 
-
-
 The Community Member category of membership is limited to non-proﬁts, open source
 
 projects and individuals, and requires approval by the Governing Board, or, if the Governing
@@ -100,7 +95,7 @@ The Governing Board shall amend/adopt the Sponsorship Program and publish it on 
 
 Software Transparency Foundation website.
 
-**Open Governing Board**
+## Open Governing Board
 
 ### Members constituted:
 ●  one representative appointed from each Diamond or Gold sponsor, for companies with strong ties in ownership or business, they can sponsor multiple times, but they can only appoint 2 representative in total. Whether they constitute astrong ties is determined by governing board voting.
@@ -147,14 +142,13 @@ publication of public minutes within a reasonable time following their approval 
 
 Governing Board.
 
-**Steering Committee**
+## Steering Committee
 
 ### Members constituted:
+
 ● One appointed representative from each Diamond or Gold sponsor, for companies with strong ties in ownership or business, they can sponsor multiple times, but they can only appoint 2 representative in total. Whether they constitute astrong ties is determined by governing board voting.
 
-● Each project team lead, as such may be determined pursuant to procedures decided upon by
-
-the Steering Committee with approval of the Governing Board (应该由项目自己选举，选举规则，使用SC认可的选举规则，或者在SC通过，选举的结果应该在SC备案)
+● Each project team lead, as such may be determined pursuant to procedures decided upon by the Steering Committee with approval of the Governing Board (should be selected by project team self, and the selecting process and result should be put on record under SC)
 
 ● One elected representative from the Community Members (how to select?，who can vote?)
 
@@ -187,8 +181,7 @@ The Steering Committee can approve the project-charter, and and supervise the ex
 Steering Committee meetings can include any project teams, and Steering Committee meeting is open to all interested parties.
 The Director, if any, shall be entitled to observe all meetings of the Steering Committee and any work team meetings on a non-voting basis.
 
-
-**Outreach Committee**
+## Outreach Committee
 
 The voting members of the Outreach Committee shall consist of one appointed representative
 
@@ -207,8 +200,7 @@ The Outreach Committee should report directly to the Governing Board
 
 The Director, if any, shall be entitled to observe all meetings of the Outreach Committee on a non-voting basis.(who is the director?)
 
-
-**Voting**
+## Voting
 
 While it is the goal of the project to operate as a consensus based community, if any decision
 
@@ -247,13 +239,13 @@ the conducting of the election of the Community Member representative to the Ste
 
 Committee and the election of any ofﬁcer or other position within the Project.
 
-**Code of Conduct**
+## Code of Conduct
 
 The Governing Board shall deﬁne and adopt a code of conduct.
 
 
 
-**Budget**
+## Budget
 
 The Governing Board shall approve an annual budget and commit to never spend in
 
@@ -275,14 +267,13 @@ project.
 
 The Governing Board shall provide quarterly reports of spend levels against the budget.
 
-**Intellectual Property Policy**
+## Intellectual Property Policy
 
 All documentation will be received and made available by the Project under the Creative
 
 Commons Zero License version 1.0 Universal (CC0 1.0)
 
-**Amendments**
-
+## Amendments
 
 
 
